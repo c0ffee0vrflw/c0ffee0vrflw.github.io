@@ -1,8 +1,8 @@
-title: Hacker-Blog
-description: A Jekyll Blog Theme For Hackers
-author:
-  name: SomeHacker
-  email: someone@somewebsite.somedomain
+title: 3stR4M.
+description: 
+author: 
+  name: 3stR4M
+  email: v4rd1@protonmail.com
   url: 'https://ashishchaudhary.in/hacker-blog'
 baseurl: ''
 source: .
@@ -21,6 +21,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-owner: SomeHacker
-year: '2020'
+owner: 3stR4M
+year: '2021'
 url: ''
