@@ -1,4 +1,4 @@
 ---
-title: Article
+title: Vulnhub "brainpan" walkthrough
 published: true
 ---
