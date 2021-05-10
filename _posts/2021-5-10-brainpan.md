@@ -187,7 +187,8 @@ Running the code give us the following address on the EIP register:
 
 "35724134", We're going to use that address to find the offset:
 
-```/usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 1500 -q 35724134                                                                                                                                                
+```
+/usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 1500 -q 35724134                                                                                                                                                
 
 [*] Exact match at offset 524
 
